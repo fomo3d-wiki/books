@@ -13,4 +13,4 @@
 
 如感兴趣，请直接加入:
 **or you can scan it**
-![Image text]()
+![Image text](https://github.com/fomo3d-wiki/books/blob/master/images/weixinGZ.jpg)
