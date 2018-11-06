@@ -13,7 +13,7 @@
 
 1.5:BTC设计:https://github.com/fomo3d-wiki/books/blob/master/1-%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/1.5-%E6%AF%94%E7%89%B9%E5%B8%81.md
 
-# 如感兴趣，请直接加入:
+## 如感兴趣，请直接加入:
 ```
 or you can scan it
 ```
