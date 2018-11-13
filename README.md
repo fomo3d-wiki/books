@@ -1,4 +1,7 @@
 # books
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/fomo3d-wik)
+
 **for good you some thing**
 
 一、one-book:讲解区块链-原理与设计
